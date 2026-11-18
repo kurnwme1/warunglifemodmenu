@@ -1,7 +1,7 @@
 {
-    "releaseDate":  "2026-11-18 06:30:41",
-    "changelog":  "WL Mod Menu v0.40.0(44): Auto-Finder GameState, Mode Kecepatan Lambat (0.1x - 0.75x \u0026 Custom), Pengecualian Petik Buah",
-    "versionCode":  44,
-    "versionName":  "0.40.0",
-    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLife_v0.40_ModMenu_Floating.apk"
+  "downloadUrl": "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLife_v0.40_ModMenu_Floating.apk",
+  "versionCode": 44,
+  "changelog": "Pembaruan WL Mod Menu v0.40.0 (Pure ROOT)",
+  "versionName": "0.40.0",
+  "releaseDate": "2026-11-18 07:00:18"
 }
