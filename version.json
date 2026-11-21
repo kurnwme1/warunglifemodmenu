@@ -1,8 +1,8 @@
 {
     "versionCode":  47,
     "versionName":  "1.1.0",
-    "buildId":  "20261121120438",
-    "changelog":  "Auto klik tombol Lanjut minigame di auto layani AFK",
+    "buildId":  "20261121123106",
+    "changelog":  "Fix auto layani: eliminasi spam, deteksi tepat saat pembeli di depan kasir, pause murni saat kasir kosong",
     "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLife_v1.1_ModMenu_Floating.apk",
-    "releaseDate":  "2026-11-21 12:05:34"
+    "releaseDate":  "2026-11-21 12:31:54"
 }
