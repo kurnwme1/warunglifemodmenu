@@ -1,8 +1,8 @@
 {
     "versionCode":  47,
     "versionName":  "1.1.0",
-    "buildId":  "20261121064146",
-    "changelog":  "Pembaruan v1.1.0: Fitur Auto Melayani Pembeli (Mode Klik \u0026 Seret), Tombol 1-Tap \u0026 Toggle AFK Otomatis, Pembaruan Dialog Update \u0026 Build ID terintegrasi.",
+    "buildId":  "20261121070352",
+    "changelog":  "Fix auto layani pembeli: deteksi pesanan memory Godot 4 dan virtual tap non-touchable window",
     "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLife_v1.1_ModMenu_Floating.apk",
-    "releaseDate":  "2026-11-21 06:42:41"
+    "releaseDate":  "2026-11-21 07:04:40"
 }
