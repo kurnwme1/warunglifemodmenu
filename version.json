@@ -1,8 +1,8 @@
 {
     "versionCode":  47,
     "versionName":  "1.1.0",
-    "buildId":  "20261121085635",
-    "changelog":  "Auto pilih tombol Ikhlaskan saat warga datang soal utang.",
+    "buildId":  "20261121091426",
+    "changelog":  "Fix deteksi StringName pesanan pembeli \u0026 auto kasih utang / upah 2x",
     "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLife_v1.1_ModMenu_Floating.apk",
-    "releaseDate":  "2026-11-21 08:57:26"
+    "releaseDate":  "2026-11-21 09:15:07"
 }
