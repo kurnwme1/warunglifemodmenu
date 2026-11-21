@@ -1,8 +1,8 @@
 {
-    "versionCode":  47,
+    "versionCode":  48,
     "versionName":  "1.1.0",
-    "buildId":  "20261121123106",
-    "changelog":  "Fix auto layani: eliminasi spam, deteksi tepat saat pembeli di depan kasir, pause murni saat kasir kosong",
+    "buildId":  "20261121160927",
+    "changelog":  "UI super compact \u0026 sleek, auto-layani anti-spam idle, auto-win minigame 100% + auto-lanjut",
     "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLife_v1.1_ModMenu_Floating.apk",
-    "releaseDate":  "2026-11-21 12:31:54"
+    "releaseDate":  "2026-11-21 16:10:10"
 }
