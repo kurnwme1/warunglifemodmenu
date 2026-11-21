@@ -1,8 +1,8 @@
 {
     "versionCode":  47,
     "versionName":  "1.1.0",
-    "buildId":  "20261121083501",
-    "changelog":  "Auto Kasih Utang selalu diterima \u0026 Auto Win Minigame + Ambil Upah 2x otomatis.",
+    "buildId":  "20261121084227",
+    "changelog":  "Universal adaptive screen coordinates: presisi di semua resolusi \u0026 rasio layar HP.",
     "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLife_v1.1_ModMenu_Floating.apk",
-    "releaseDate":  "2026-11-21 08:35:51"
+    "releaseDate":  "2026-11-21 08:43:15"
 }
