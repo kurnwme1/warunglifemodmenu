@@ -1,8 +1,8 @@
 {
     "versionCode":  49,
     "versionName":  "1.2",
-    "buildId":  "20261122012037",
-    "changelog":  "Fix auto layani cashier, universal screen adaptive resolution, exclude roti \u0026 jamu from auto refill",
-    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-49_20261122012037.apk",
-    "releaseDate":  "2026-11-22 01:25:02"
+    "buildId":  "20261122013515",
+    "changelog":  "Fix auto update background checker in floating mod service, bypass GitHub CDN cache, add in-app update banner",
+    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-49_20261122013515.apk",
+    "releaseDate":  "2026-11-22 01:36:08"
 }
