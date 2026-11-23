@@ -1,8 +1,8 @@
 {
     "versionCode":  49,
     "versionName":  "1.2",
-    "buildId":  "20261122013515",
-    "changelog":  "Fix auto update background checker in floating mod service, bypass GitHub CDN cache, add in-app update banner",
-    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-49_20261122013515.apk",
-    "releaseDate":  "2026-11-22 01:36:08"
+    "buildId":  "20261123075755",
+    "changelog":  "Fix CPU 100% bug pada freeze waktu \u0026 loop scan, adaptasi tinggi dinamis pop-up dialog, sinkronisasi saldo layanan \u0026 QRIS",
+    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-49_20261123075755.apk",
+    "releaseDate":  "2026-11-23 08:06:48"
 }
