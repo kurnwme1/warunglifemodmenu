@@ -1,8 +1,8 @@
 {
-    "versionCode":  51,
+    "versionCode":  52,
     "versionName":  "1.2",
-    "buildId":  "20261126005115",
-    "changelog":  "Fix Auto-Refill stok kopi sachet \u0026 seluruh item fisik (page-safe key reader, auto-rescan hash stok, prioritas sebelum Auto Buka Warung)",
-    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-51_20261126005115.apk",
-    "releaseDate":  "2026-11-26 00:52:02"
+    "buildId":  "20261126015317",
+    "changelog":  "Mode Full Auto AFK 1-Klik (Lv 1-11), Auto-Unlock Barang Sesuai Level + Pre-Alokasi Slot Save, Tambah Hari (+1/+2/+3/+7/Lewati Tunggu Misi + Sinkron Status), Guard Wajib Etalase, \u0026 Leaderboard Safe Tab Warung",
+    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-52_20261126015317.apk",
+    "releaseDate":  "2026-11-26 01:54:16"
 }
