@@ -1,8 +1,8 @@
 {
     "versionCode":  49,
     "versionName":  "1.2",
-    "buildId":  "20261123075755",
-    "changelog":  "Fix CPU 100% bug pada freeze waktu \u0026 loop scan, adaptasi tinggi dinamis pop-up dialog, sinkronisasi saldo layanan \u0026 QRIS",
-    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-49_20261123075755.apk",
-    "releaseDate":  "2026-11-23 08:06:48"
+    "buildId":  "20261125085800",
+    "changelog":  "Fix auto layani semua resolusi (termasuk 2700x1440) \u0026 poni HP (DisplayCutout), support pointer ARM64 TBI, auto deteksi mode seret/ketuk, dan sinkronisasi shell root",
+    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-49_20261125085800.apk",
+    "releaseDate":  "2026-11-25 08:58:45"
 }
