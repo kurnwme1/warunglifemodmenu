@@ -1,8 +1,8 @@
 {
     "versionCode":  49,
     "versionName":  "1.2",
-    "buildId":  "20261126061127",
-    "changelog":  "Decouple Auto 100 Minigame from Full AFK mode, fix HP auto-closing via dynamic Godot 4.7.2 CanvasItem::visible calibration, and add Teleport to Warung \u0026 Rumah Pak Misran.",
-    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-49_20261126061127.apk",
-    "releaseDate":  "2026-11-26 06:12:22"
+    "buildId":  "20261126063843",
+    "changelog":  "Keep custom selling prices intact when enabling 1-click Full Auto AFK (remove restorePrices() from handleEnableAfkFullLocked).",
+    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-49_20261126063843.apk",
+    "releaseDate":  "2026-11-26 06:39:39"
 }
