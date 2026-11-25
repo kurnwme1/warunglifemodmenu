@@ -1,8 +1,8 @@
 {
-    "versionCode":  53,
+    "versionCode":  54,
     "versionName":  "1.2",
-    "buildId":  "20261126030205",
-    "changelog":  "Fix Godot 4.7.2 CowData 32-byte header (Slot RAM), multi-slot save detection (Slot 1-6) via su --mount-master \u0026 /proc/pid/root, Auto Save-Slot Watchdog saat Simpan \u0026 ke Menu Utama, matikan Kurir Instan dari Mode AFK, dan perbaiki Auto-Layani touch-through/offset/retry.",
-    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-53_20261126030205.apk",
-    "releaseDate":  "2026-11-26 03:03:00"
+    "buildId":  "20261126051213",
+    "changelog":  "Fix false HP/Pause detection, Godot 4.7.2 kebun array header, case-insensitive fishing detection, UNLOCK_NO_ADS toggle scan order, Max Level 11 UI label, TabCari numeric sanitization, and MainActivity overlay guard.",
+    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-54_20261126051213.apk",
+    "releaseDate":  "2026-11-26 05:13:14"
 }
