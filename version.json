@@ -1,8 +1,8 @@
 {
-    "versionCode":  50,
+    "versionCode":  51,
     "versionName":  "1.2",
-    "buildId":  "20261126002954",
-    "changelog":  "Fix Auto-Layani pause otomatis saat HP/Pause/Minigame Jeda, proteksi modal dialog \u0026 cache pause, sinkronisasi FPS \u0026 hemat baterai, validasi stok/waktu/harga v1.2, perbaikan Tas Unlimited kebun/mancing, dan sanitasi input angka",
-    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-50_20261126002954.apk",
-    "releaseDate":  "2026-11-26 00:30:43"
+    "buildId":  "20261126005115",
+    "changelog":  "Fix Auto-Refill stok kopi sachet \u0026 seluruh item fisik (page-safe key reader, auto-rescan hash stok, prioritas sebelum Auto Buka Warung)",
+    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-51_20261126005115.apk",
+    "releaseDate":  "2026-11-26 00:52:02"
 }
