@@ -1,8 +1,8 @@
 {
     "versionCode":  49,
     "versionName":  "1.2",
-    "buildId":  "20261126054119",
-    "changelog":  "Fix stuck modal/pause detection after closing pop-ups (remove Godot 4.5.0 SCENETREE_PAUSED offset), harden Auto-Layani instant resume and panel touchability guards.",
-    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-49_20261126054119.apk",
-    "releaseDate":  "2026-11-26 05:42:15"
+    "buildId":  "20261126061127",
+    "changelog":  "Decouple Auto 100 Minigame from Full AFK mode, fix HP auto-closing via dynamic Godot 4.7.2 CanvasItem::visible calibration, and add Teleport to Warung \u0026 Rumah Pak Misran.",
+    "downloadUrl":  "https://github.com/kurnwme1/warunglifemodmenu/releases/download/latest/WarungLifeMM_1.2-49_20261126061127.apk",
+    "releaseDate":  "2026-11-26 06:12:22"
 }
